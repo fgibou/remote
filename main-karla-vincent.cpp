@@ -12,3 +12,6 @@ vincent makes a change here 5
 vincent makes a change here 6
 vincent makes a change here 7
 karla adds feature 10
+karla adds feature 11 good
+karla adds feature 12 bad
+karla adds feature 13 good
