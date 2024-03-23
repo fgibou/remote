@@ -1,0 +1,3 @@
+feature 1 bad
+feature 2 good
+feature 3 good
