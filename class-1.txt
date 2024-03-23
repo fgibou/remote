@@ -1,5 +1,5 @@
 feature 1 fix bug
 feature 2 fix bug
-feature 3
-feature 4 bug fix
-feature 5
+feature 3 fix bug
+feature 4 fix bug
+feature 5 fix bug
