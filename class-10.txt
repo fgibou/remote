@@ -1,2 +1,2 @@
 feature 1 good
-feature 2 bad
+feature 2 good
