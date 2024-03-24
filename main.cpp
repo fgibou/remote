@@ -5,5 +5,5 @@ double triple_it(double x) {
     return 3*x;
 }
 double quadruple_it(double x) {
-    return 4*x;
+    return 4.0 * x;
 }
