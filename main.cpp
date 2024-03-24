@@ -8,5 +8,9 @@ double quadruple_it(double x) {
     return 4.0 * x;
 }
 double absolute_value(x) {
-    return x < 0: -x:x;
+    return x >= 0: x:-x;
+}
+double min(double x, double y) {
+    if (x < y) return x;
+    return y;
 }
