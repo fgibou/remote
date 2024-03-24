@@ -17,3 +17,6 @@ vincent adds feature 12 good
 karla adds feature 13 good
 vincent adds feature 14 good
 vincent adds feature 15 good
+void double_it(double x) {
+    return 3*x;
+}
