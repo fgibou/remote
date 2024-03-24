@@ -21,5 +21,5 @@ double double_it(double x) {
     return 2*x;
 }
 double triple_it(double x) {
-    return 30*x;
+    return 3*x;
 }
