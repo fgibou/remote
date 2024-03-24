@@ -20,3 +20,6 @@ vincent adds feature 15 good
 double double_it(double x) {
     return 2*x;
 }
+double triple_it(double x) {
+    return 3*x;
+}
