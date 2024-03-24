@@ -15,5 +15,6 @@ double min(double x, double y) {
     return y;
 }
 double max(double x, double y) {
-    return x;
+    if (x > y) return x;
+    return y;
 }
